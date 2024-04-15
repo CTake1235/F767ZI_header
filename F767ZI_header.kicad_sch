@@ -5913,6 +5913,12 @@
 		(uuid "56b1f81f-bb2f-4342-8dbd-31adbd4947a1")
 	)
 	(junction
+		(at 133.35 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85b82450-60c2-4b10-a0e0-ed65b9036509")
+	)
+	(junction
 		(at 82.55 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9498,6 +9504,72 @@
 			(project "F767ZI_header"
 				(path "/b49c86d0-897f-4af2-adc1-6b5936ca98fe"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84c23f5d-e2ec-40ed-8d04-b1ec12706454")
+		(property "Reference" "#PWR032"
+			(at 133.35 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e97736b-a332-445a-a9aa-497b2f38589d")
+		)
+		(instances
+			(project "F767ZI_header"
+				(path "/b49c86d0-897f-4af2-adc1-6b5936ca98fe"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
