@@ -1822,7 +1822,7 @@
 		(property "Reference" "A1"
 			(at -30.305 -68.219 0)
 			(layer "F.SilkS")
-			(uuid "544fc64a-9cf4-4a1f-b713-b8d2d44843b9")
+			(uuid "78311d27-3867-4c42-8ce6-213dfb7b2b9d")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -1833,7 +1833,7 @@
 		(property "Value" "INNER_NUCLEO-F767ZI"
 			(at -20.526 68.059 0)
 			(layer "F.Fab")
-			(uuid "a4861054-9b76-41dd-a254-9387078abdcc")
+			(uuid "cfa52cf8-a523-4325-b0c1-60924b6b67df")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -1846,7 +1846,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "44c74f76-23e3-4080-86a1-8a892f33c6a4")
+			(uuid "703a5aa9-7067-40d9-90a9-7523914e38d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1858,7 +1858,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ea53be1-dd82-4316-976a-c639f47bbbd4")
+			(uuid "679122ce-f242-40aa-b944-ed514fb24233")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1870,7 +1870,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "960460db-243b-470d-9c87-abddf3a72590")
+			(uuid "7d309e4f-e89c-4994-9e7c-ac14d5b641c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2045,7 +2045,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3d57e399-d3b6-4376-98c5-48ddff034ef6")
+			(uuid "1317d794-2e2c-4d32-b56a-e23dda19dca4")
 		)
 		(fp_line
 			(start -35 -42.11)
@@ -2055,7 +2055,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "00a574e7-3c1f-4016-b609-1000e1446717")
+			(uuid "afe934a4-2df8-445d-a531-cbe02d394b7d")
 		)
 		(fp_line
 			(start -35 -41.17)
@@ -2065,7 +2065,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "23adbb90-eb96-4644-9f74-a9dd31f92a8d")
+			(uuid "2f754c67-c4b1-4c6e-b0c3-7d7f2b985495")
 		)
 		(fp_line
 			(start -35 -41.17)
@@ -2075,7 +2075,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dd05994c-f91e-44c4-923d-76c08616d830")
+			(uuid "8ef415ad-7824-4c0d-843c-239a3519fddb")
 		)
 		(fp_line
 			(start -33 66.67)
@@ -2085,7 +2085,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "788f0f07-014a-4780-9b33-4799a31e8331")
+			(uuid "69252493-e922-4ddd-926c-bcbde985ed5e")
 		)
 		(fp_line
 			(start -16.002 -42.11)
@@ -2095,7 +2095,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c27b7529-2531-40ca-93c9-1ac0ac0501c5")
+			(uuid "39606c74-6ea1-4464-b41f-fb276852c519")
 		)
 		(fp_line
 			(start -16.002 -41.17)
@@ -2105,7 +2105,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb82a051-2f4f-40e6-a944-29cf3711120c")
+			(uuid "012cfb46-9ee0-47b4-ba66-67466a5f068e")
 		)
 		(fp_line
 			(start 7.62 -42.11)
@@ -2115,7 +2115,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "063000f6-665c-485a-a90a-ba663a69477b")
+			(uuid "320e16b2-53c1-4eff-9c92-5006fc20e463")
 		)
 		(fp_line
 			(start 7.62 -41.17)
@@ -2125,7 +2125,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "42b392e1-fcb1-44ea-bb32-02d070716c80")
+			(uuid "0d1fe7c5-daca-4ea5-b2cd-048c73b6ff19")
 		)
 		(fp_line
 			(start 18.9992 -42.11)
@@ -2135,7 +2135,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3b965350-d3ba-4986-9e4a-7067403adc15")
+			(uuid "01d1ed08-755e-41d0-81f6-a30da774f947")
 		)
 		(fp_line
 			(start 18.9992 -41.17)
@@ -2145,7 +2145,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d09c5766-fa16-41af-8ea0-3d771e53f30a")
+			(uuid "8ff605d3-6d09-4050-baed-f8d805467b53")
 		)
 		(fp_line
 			(start 33 -66.67)
@@ -2155,7 +2155,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7f70cbee-f2ae-41d5-8b67-ab331210e787")
+			(uuid "4b016997-9ce4-4d12-ad66-c817168dd3d0")
 		)
 		(fp_line
 			(start 35 -42.11)
@@ -2165,7 +2165,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ecb7057c-8304-4932-8f93-dc8071e41d2e")
+			(uuid "6fb4b409-fbf3-410c-8be0-03ea3ad90a44")
 		)
 		(fp_line
 			(start 35 64.67)
@@ -2175,7 +2175,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4fae6812-4d3f-4ccf-a7ea-479d85cc348c")
+			(uuid "89d738bc-fe7c-4fab-9953-3c1f5f2fc0d2")
 		)
 		(fp_arc
 			(start -35 -64.67)
@@ -2186,7 +2186,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5572fa49-2199-4ccb-adb9-c0c6a270fbe8")
+			(uuid "53db3ce5-4bbc-4346-9bd0-cc12278e081b")
 		)
 		(fp_arc
 			(start -33 66.67)
@@ -2197,7 +2197,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "32bb0785-d9fa-4ebc-b517-c6a52ca27992")
+			(uuid "a0fce40a-edbd-4f26-9055-ff25aeef48f3")
 		)
 		(fp_arc
 			(start -19.507199 -42.11)
@@ -2208,7 +2208,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "146dbb6d-a770-468d-aa5c-15aab0f33f3b")
+			(uuid "78d6e49a-d322-43d8-b356-fa70ffc42e94")
 		)
 		(fp_arc
 			(start -16.002001 -41.17)
@@ -2219,7 +2219,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2015a495-146e-4b1c-894f-e62b63e0650d")
+			(uuid "8031f858-e034-4bd1-92c5-b7ce4809f058")
 		)
 		(fp_arc
 			(start 2.997201 -42.11)
@@ -2230,7 +2230,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b5972dd4-b0bf-42b6-b4f7-0faee5a48fec")
+			(uuid "658384e9-9f78-40e4-ade2-c368b7819c2c")
 		)
 		(fp_arc
 			(start 7.619999 -41.17)
@@ -2241,7 +2241,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "35188c47-9a66-4667-b95a-704f9a1127e8")
+			(uuid "47f04cf1-3485-41b1-92a9-3c7bd59f951d")
 		)
 		(fp_arc
 			(start 14.935201 -42.11)
@@ -2252,7 +2252,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "16d44bf0-ff7b-42ce-8fa7-87601acb0fb5")
+			(uuid "954d09d6-76c2-40eb-8b8f-c7556cdcfab4")
 		)
 		(fp_arc
 			(start 18.999199 -41.17)
@@ -2263,7 +2263,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8d603614-fc8c-4f8d-98e4-63a1cd2b139d")
+			(uuid "a263686c-8632-4b35-90b9-116f698909aa")
 		)
 		(fp_arc
 			(start 33 -66.67)
@@ -2274,7 +2274,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1df0b091-9af5-4bf0-8fa5-86b4fb733c95")
+			(uuid "4ad9dda6-75ae-4578-a8b0-adc6f3a53142")
 		)
 		(fp_arc
 			(start 35 64.67)
@@ -2285,7 +2285,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7f7450df-39b2-4330-b097-e8c1557a8cb8")
+			(uuid "e2bdf1c5-3daf-43fd-bc60-a1decf17418f")
 		)
 		(fp_circle
 			(center -25.88 -24.77)
@@ -2296,7 +2296,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "1c0d3801-c60a-41f7-8be5-61bb0d1f95e6")
+			(uuid "1f91b55a-9b13-45e4-83bb-61c4a0deb440")
 		)
 		(fp_line
 			(start -35.25 -64.67)
@@ -2306,7 +2306,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a772ec1d-cc74-4424-9de9-5b3b2aa5037d")
+			(uuid "5d44e3dc-a79f-4d08-a721-a6d2e3c61ae3")
 		)
 		(fp_line
 			(start -33 66.92)
@@ -2316,7 +2316,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5bd9090a-7469-4fe3-a3f1-d76876e8b3b7")
+			(uuid "5cb8ad81-3f16-4b4e-94dc-d105ffb143f5")
 		)
 		(fp_line
 			(start 33 -66.92)
@@ -2326,7 +2326,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bc7251e3-b824-42f4-aed1-4c3d4e57f757")
+			(uuid "15039aca-8a67-4765-8660-bfed8987bb64")
 		)
 		(fp_line
 			(start 35.25 64.67)
@@ -2336,7 +2336,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "06c075a1-21e3-4336-aba9-53948f50537e")
+			(uuid "cf60523f-88a0-4808-a74a-2ea8e5eb105b")
 		)
 		(fp_arc
 			(start -35.25 -64.67)
@@ -2347,7 +2347,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d0f53d02-c826-4f02-b367-16f1a0962d4c")
+			(uuid "042cf50c-3bd6-44bd-87cc-02b9729d3055")
 		)
 		(fp_arc
 			(start -33 66.92)
@@ -2358,7 +2358,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ac3eef43-9cd0-4a8d-86b7-1ee26b94b1bb")
+			(uuid "e6a3da56-e75b-4f8a-b3fb-7367226c1c94")
 		)
 		(fp_arc
 			(start 33 -66.92)
@@ -2369,7 +2369,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0f6b9413-c884-4537-a890-7dedb81f2219")
+			(uuid "f916f82f-4b83-4f41-8de6-8bb21e26437e")
 		)
 		(fp_arc
 			(start 35.25 64.67)
@@ -2380,7 +2380,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7300f246-0741-4354-93a0-c699de086c91")
+			(uuid "4961b56f-3a68-4a1f-8d4c-442fd1fa8e42")
 		)
 		(fp_line
 			(start -35 -64.67)
@@ -2390,7 +2390,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "20a5b87a-683f-440e-b33f-a98a98f08839")
+			(uuid "8b34474f-91e0-4518-9a11-c832ca19186e")
 		)
 		(fp_line
 			(start -35 -42.11)
@@ -2400,7 +2400,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f53a2e2a-3270-477e-b5b2-aa60d65e739a")
+			(uuid "105607ee-36ba-4a40-9ddd-63e934540207")
 		)
 		(fp_line
 			(start -35 -41.17)
@@ -2410,7 +2410,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "052ca0fe-02ba-4dc3-9004-6e3b70fc209c")
+			(uuid "e15a6a94-22f8-4a98-a1c4-2c744fd3fbf1")
 		)
 		(fp_line
 			(start -35 -41.17)
@@ -2420,7 +2420,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d6ff6474-5d52-49e7-82fa-421c5e13fb38")
+			(uuid "57f099f4-d75d-4e68-9cd3-812a1717fd02")
 		)
 		(fp_line
 			(start -33 66.67)
@@ -2430,7 +2430,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "86800e89-4372-4ec6-a51e-0268fc869930")
+			(uuid "261e926d-f30b-4adc-a4d8-448296fc6829")
 		)
 		(fp_line
 			(start -16.002 -42.11)
@@ -2440,7 +2440,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "38c69a6a-3d83-447c-9cab-88bc191e94f2")
+			(uuid "2c01bd8f-ccf0-44be-9ca6-c1b1fd77b41c")
 		)
 		(fp_line
 			(start -16.002 -41.17)
@@ -2450,7 +2450,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1014ca6a-03a2-4f2a-8fa6-fbd89a538d8f")
+			(uuid "ce7379ac-1925-4ea6-b327-a9b5165a54aa")
 		)
 		(fp_line
 			(start 7.62 -42.11)
@@ -2460,7 +2460,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "04e72eec-75d3-415b-9c06-f1b37e6deb36")
+			(uuid "68d6fbe1-93e7-4721-945b-886cfed6edba")
 		)
 		(fp_line
 			(start 7.62 -41.17)
@@ -2470,7 +2470,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "71e7672c-6ede-4105-a87e-bef27c0172d3")
+			(uuid "7a967792-e51f-4373-b69f-8465943647b5")
 		)
 		(fp_line
 			(start 18.9992 -42.11)
@@ -2480,7 +2480,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "efc15335-e7e6-46c8-a86b-fe7e02e6ae6d")
+			(uuid "e0a287fb-7d32-48d6-b15e-8c2e22a4b804")
 		)
 		(fp_line
 			(start 18.9992 -41.17)
@@ -2490,7 +2490,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3329e838-cce2-4833-af43-96535f48423e")
+			(uuid "904f9e0c-b5c0-427e-bb5e-ea4ad3b9bf30")
 		)
 		(fp_line
 			(start 33 -66.67)
@@ -2500,7 +2500,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b8a2e0ae-2fea-490d-9425-f2724b5c737e")
+			(uuid "d0b1b4f9-8bd3-4e20-936e-67f076a4ef81")
 		)
 		(fp_line
 			(start 35 -42.11)
@@ -2510,7 +2510,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2485116c-f163-4f8a-9e72-d3aad998303d")
+			(uuid "74888b24-35ff-4682-9240-196373e09b3d")
 		)
 		(fp_line
 			(start 35 64.67)
@@ -2520,7 +2520,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ee301e65-5e09-4769-9c37-d30d3786def8")
+			(uuid "dbc335ed-9de2-4076-8535-e40df4fef885")
 		)
 		(fp_arc
 			(start -35 -64.67)
@@ -2531,7 +2531,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e02980fc-7e8c-4a6b-afe2-4283ced0c49c")
+			(uuid "64771df1-3002-4288-9a4f-65773e1c3e59")
 		)
 		(fp_arc
 			(start -33 66.67)
@@ -2542,7 +2542,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1cf4f775-a911-4dbf-b687-47bf1b50ce0b")
+			(uuid "7361d7f9-5377-4d4d-9f0a-2771bf2addec")
 		)
 		(fp_arc
 			(start -19.507199 -42.11)
@@ -2553,7 +2553,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "79540f37-982e-405d-8664-586af4791057")
+			(uuid "0cc23c95-b86d-4caa-996d-f650af67b8b7")
 		)
 		(fp_arc
 			(start -16.002001 -41.17)
@@ -2564,7 +2564,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "acacc33d-90dc-482c-802d-5ec132dd7391")
+			(uuid "3ab57673-212d-4626-8121-a910c97f7fb6")
 		)
 		(fp_arc
 			(start 2.997201 -42.11)
@@ -2575,7 +2575,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3e189e84-b7e9-41dc-883e-d4d87211c179")
+			(uuid "0c321146-50d6-4122-a432-d28590d30ad2")
 		)
 		(fp_arc
 			(start 7.619999 -41.17)
@@ -2586,7 +2586,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2b00f281-6722-4afb-a1e2-da81eb99bb5d")
+			(uuid "45d0b568-6a91-4b4f-aab5-1ad31a72a1b8")
 		)
 		(fp_arc
 			(start 14.935201 -42.11)
@@ -2597,7 +2597,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1ea7223b-bd51-4e9e-9e07-09b5c381d669")
+			(uuid "e14957cc-af25-443a-9d03-84351965149c")
 		)
 		(fp_arc
 			(start 18.999199 -41.17)
@@ -2608,7 +2608,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dc4b378f-7692-4d17-8e30-77d884b2db8f")
+			(uuid "aee7525d-b501-45e1-b9d6-665f39995f1e")
 		)
 		(fp_arc
 			(start 33 -66.67)
@@ -2619,7 +2619,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0d056c3a-65db-41b2-bf13-d97468810d3e")
+			(uuid "7a73c8fa-f266-4e04-ba18-96b78132b88a")
 		)
 		(fp_arc
 			(start 35 64.67)
@@ -2630,7 +2630,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4080bdaf-9d4c-4ac2-b1eb-d5d8d89642d9")
+			(uuid "a959ce9a-6517-408d-a6df-9cd1ce29c18a")
 		)
 		(fp_circle
 			(center -25.88 -24.77)
@@ -2641,42 +2641,42 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "5c502611-b773-406f-bdd5-9952fee742fa")
+			(uuid "d5d6a462-c0c6-4914-9681-fa510c888b7a")
 		)
 		(pad "" np_thru_hole circle
 			(at -24.13 -38.74)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e4c0d73b-a213-4de7-bf93-c95b46eb90bc")
+			(uuid "04eeec58-0471-4788-b568-7572f9ecbe1a")
 		)
 		(pad "" np_thru_hole circle
 			(at -22.86 37.46)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "8592e8d5-2851-445c-b06c-8b7bb5de1aeb")
+			(uuid "249decfa-e171-410b-98e2-5f829d429545")
 		)
 		(pad "" np_thru_hole circle
 			(at 8.89 13.33)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "bf5309fb-362b-4bb1-94ca-2259ec8b51f4")
+			(uuid "1662cf81-ea69-4181-a9bd-c6746c29819b")
 		)
 		(pad "" np_thru_hole circle
 			(at 22.86 37.46)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "11eca09e-7e49-443e-a601-e9ca765be782")
+			(uuid "e9c88c56-9cc0-4ebc-9ccf-60e91f32adf4")
 		)
 		(pad "" np_thru_hole circle
 			(at 24.13 -37.47)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b0b2df20-1eec-4402-a92d-f9dd3440da3e")
+			(uuid "5f04e0f3-b07c-4be4-bd26-ead86616293d")
 		)
 		(pad "CN7_1" thru_hole rect
 			(at 21.59 -33.914)
@@ -2690,7 +2690,7 @@
 			(pinfunction "D16/PC_6/I2S_A_MCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f995d3dd-ae69-4dc4-816d-8a9270270d29")
+			(uuid "f6819cdc-76f0-4502-985f-37905bdb7a7a")
 		)
 		(pad "CN7_2" thru_hole oval
 			(at 24.13 -33.914)
@@ -2704,7 +2704,7 @@
 			(pinfunction "D15/PB_8/I2C_A_SCL")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "bcc69fb2-38da-4a54-b9d1-adb186bbee53")
+			(uuid "0b42a72c-0db7-4b0d-bbc0-da9135eaf986")
 		)
 		(pad "CN7_3" thru_hole oval
 			(at 21.59 -31.374)
@@ -2718,7 +2718,7 @@
 			(pinfunction "D17/PB_15/I2S_A_SD")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "9db7ea3d-b8d8-43c9-a321-261730247386")
+			(uuid "abcd812a-326e-4338-b3d2-cd606ac7dd27")
 		)
 		(pad "CN7_4" thru_hole oval
 			(at 24.13 -31.374)
@@ -2732,7 +2732,7 @@
 			(pinfunction "D14/PB_9/I2C_A_SDA")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "d70bd2db-bed1-4441-86ff-c665b2113a8c")
+			(uuid "ded4a06d-f64c-49e2-8497-9b2b06e9949d")
 		)
 		(pad "CN7_5" thru_hole oval
 			(at 21.59 -28.834)
@@ -2746,7 +2746,7 @@
 			(pinfunction "D18/PB_13/I2S_A_CK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "c0779bd1-2626-459d-9339-5ee6afebbb09")
+			(uuid "857abb1a-65c9-4826-a799-873517aeff0b")
 		)
 		(pad "CN7_6" thru_hole oval
 			(at 24.13 -28.834)
@@ -2760,7 +2760,7 @@
 			(pinfunction "AREF/AVDD")
 			(pintype "power_in+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "ce4ec5b6-3156-4da0-9dd6-f3cf1dfdf7d6")
+			(uuid "c535a5a0-9554-4b86-8aed-d800b77df330")
 		)
 		(pad "CN7_7" thru_hole oval
 			(at 21.59 -26.294)
@@ -2774,7 +2774,7 @@
 			(pinfunction "D19/PB_12/I2S_A_WS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "ee2dbee0-7c74-414a-a3bf-39fd8ae48baf")
+			(uuid "e03b8a79-84c7-4791-b07f-f0861b85bf15")
 		)
 		(pad "CN7_8" thru_hole oval
 			(at 24.13 -26.294)
@@ -2788,7 +2788,7 @@
 			(pinfunction "GND_CN7")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "50fe2245-39f7-49e7-ad63-5e7c589fb4e1")
+			(uuid "81895f19-82fd-44b7-b2a2-c3c5b11c50d1")
 		)
 		(pad "CN7_9" thru_hole oval
 			(at 21.59 -23.754)
@@ -2802,7 +2802,7 @@
 			(pinfunction "D20/PA_15/I2S_B_WS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b39d14b5-bfb1-474d-8900-75d1aa172f69")
+			(uuid "ed4aebf8-69a4-4400-a436-525c1a233f3f")
 		)
 		(pad "CN7_10" thru_hole oval
 			(at 24.13 -23.754)
@@ -2816,7 +2816,7 @@
 			(pinfunction "D13/PA_5/SPI_A_SCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b79eb7e7-de0e-490e-9b9a-99ed36787037")
+			(uuid "57f6b400-08bb-4529-8782-15c5180ae261")
 		)
 		(pad "CN7_11" thru_hole oval
 			(at 21.59 -21.214)
@@ -2830,7 +2830,7 @@
 			(pinfunction "D21/PC_7/I2S_B_MCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f1c9f826-4aa1-4749-b42f-063d744a8980")
+			(uuid "5d4d264c-0ec5-4f61-849b-a45317a99a78")
 		)
 		(pad "CN7_12" thru_hole oval
 			(at 24.13 -21.214)
@@ -2844,7 +2844,7 @@
 			(pinfunction "D12/PA_6/SPI_A_MISO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f5e11678-86e6-45ac-a805-077e916261fa")
+			(uuid "cf4f3339-69b1-44d0-85c8-82575954076d")
 		)
 		(pad "CN7_13" thru_hole oval
 			(at 21.59 -18.674)
@@ -2858,7 +2858,7 @@
 			(pinfunction "D22/PB_5/I2S_B_SD/SPI_B_MOSI")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "bc89375f-7d14-4197-bc15-c3fb02304701")
+			(uuid "d98be46f-de3d-4bdc-aa0f-0d8741e64f45")
 		)
 		(pad "CN7_14" thru_hole oval
 			(at 24.13 -18.674)
@@ -2872,7 +2872,7 @@
 			(pinfunction "D11/PA_7/SPI_A_MOSI/TIM_E_PWM1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b173f097-4d71-4fad-9518-e5272144846a")
+			(uuid "6508631b-ddf3-4883-ab16-55f57f29ac77")
 		)
 		(pad "CN7_15" thru_hole oval
 			(at 21.59 -16.134)
@@ -2886,7 +2886,7 @@
 			(pinfunction "D23/PB_3/I2S_B_CK/SPI_B_SCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "01e026d1-e075-4d79-9d59-b414d7ad688c")
+			(uuid "be83087b-0ab5-4cd4-82a8-b4b110f051d0")
 		)
 		(pad "CN7_16" thru_hole oval
 			(at 24.13 -16.134)
@@ -2900,7 +2900,7 @@
 			(pinfunction "D10/PD_14/SPI_A_CS/TIM_B_PWM3")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "43fd7ca6-e9ed-4041-b51f-f6b3e5e63361")
+			(uuid "4e3d932e-7c9c-4ac7-afef-1273966925c2")
 		)
 		(pad "CN7_17" thru_hole oval
 			(at 21.59 -13.594)
@@ -2914,7 +2914,7 @@
 			(pinfunction "D24/PA_4/SPI_B_NSS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "5635bfea-099b-4fe8-9232-aecfe7939978")
+			(uuid "6b2701b9-374a-4424-852d-133d481a6466")
 		)
 		(pad "CN7_18" thru_hole oval
 			(at 24.13 -13.594)
@@ -2928,7 +2928,7 @@
 			(pinfunction "D9/PD_15/TIMER_B_PWM2")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "2234cf04-7631-4832-8c39-a03231dceaea")
+			(uuid "87a42e6a-fe93-4d2c-8750-aae6de853d5d")
 		)
 		(pad "CN7_19" thru_hole oval
 			(at 21.59 -11.054)
@@ -2942,7 +2942,7 @@
 			(pinfunction "D25/PB_4/SPI_B_MISO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "c2805a29-64c4-405e-9255-f49fbaea03a1")
+			(uuid "86b386eb-3a22-4b0e-9e86-626bf71b80ce")
 		)
 		(pad "CN7_20" thru_hole oval
 			(at 24.13 -11.054)
@@ -2956,7 +2956,7 @@
 			(pinfunction "D8/PF_12/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "deba5ea3-87d0-46d6-8e7e-5a59968d3ff4")
+			(uuid "1289d75c-ccf7-42d7-9894-6e7929501375")
 		)
 		(pad "CN8_1" thru_hole rect
 			(at -24.13 -24.77)
@@ -2970,7 +2970,7 @@
 			(pinfunction "NC")
 			(pintype "no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "2eea36fd-126c-4030-a386-b2e891440c0d")
+			(uuid "344cfdb2-544c-4b3c-a59e-67f1fd550d76")
 		)
 		(pad "CN8_2" thru_hole oval
 			(at -21.59 -24.77)
@@ -2984,7 +2984,7 @@
 			(pinfunction "D43/PC_8/SDMMC_D0")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "7209e566-a7cb-4bd8-8973-3a6b59ed7816")
+			(uuid "41185ea3-0037-4654-a3bd-9f84ca37caa9")
 		)
 		(pad "CN8_3" thru_hole oval
 			(at -24.13 -22.23)
@@ -2998,7 +2998,7 @@
 			(pinfunction "IOREF")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "9932d5a2-756d-4d31-a8b5-8cc2232db854")
+			(uuid "a362d754-6561-4ae8-b1b3-fcc728169849")
 		)
 		(pad "CN8_4" thru_hole oval
 			(at -21.59 -22.23)
@@ -3012,7 +3012,7 @@
 			(pinfunction "D44/PC_9/SDMMC_D1/I2S_A_CKIN")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "caf67ca7-bde8-482a-ad12-a919395ec383")
+			(uuid "c9cd5983-b35b-4351-b129-a959d0cb1fdc")
 		)
 		(pad "CN8_5" thru_hole oval
 			(at -24.13 -19.69)
@@ -3026,7 +3026,7 @@
 			(pinfunction "RESET")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "66d62378-1e2b-4f29-8a11-21bc37598ccc")
+			(uuid "9c5b2d10-a421-4b8e-804a-28c5ab64fe10")
 		)
 		(pad "CN8_6" thru_hole oval
 			(at -21.59 -19.69)
@@ -3040,7 +3040,7 @@
 			(pinfunction "D45/PC_10/SDMMC_D2")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b71e3334-931d-4ba1-9755-083375153e64")
+			(uuid "ad634f87-817f-4e09-9f03-fcfb95dce095")
 		)
 		(pad "CN8_7" thru_hole oval
 			(at -24.13 -17.15)
@@ -3054,7 +3054,7 @@
 			(pinfunction "+3V3")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "c7101a45-598a-4009-9735-329b170ee3ea")
+			(uuid "865d72ae-9820-43b7-b4fa-9f7022d580cd")
 		)
 		(pad "CN8_8" thru_hole oval
 			(at -21.59 -17.15)
@@ -3068,7 +3068,7 @@
 			(pinfunction "D46/PC_11/SDMMC_D3")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "1990285f-501e-4d49-b676-25e45a078fcc")
+			(uuid "6443e275-d61c-4ede-a60f-4276e7b4ac8a")
 		)
 		(pad "CN8_9" thru_hole oval
 			(at -24.13 -14.61)
@@ -3082,7 +3082,7 @@
 			(pinfunction "+5V")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "aa2c9c32-8d25-4d83-96b9-8f99caf9ea1e")
+			(uuid "96769644-803a-4e54-bad2-0486dea28c21")
 		)
 		(pad "CN8_10" thru_hole oval
 			(at -21.59 -14.61)
@@ -3096,7 +3096,7 @@
 			(pinfunction "D47/PC_12/SDMMC_CK")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "1af6e219-cc5d-4243-bd8a-c6eca352110b")
+			(uuid "7b6bcc9a-bf19-4212-a7dd-c987cf608c7d")
 		)
 		(pad "CN8_11" thru_hole oval
 			(at -24.13 -12.07)
@@ -3110,7 +3110,7 @@
 			(pinfunction "GND_CN8")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "3622031a-3477-4a5e-8e1d-4ef56e1cb693")
+			(uuid "7a3bb000-5e2e-4d2e-8573-44927d50905f")
 		)
 		(pad "CN8_12" thru_hole oval
 			(at -21.59 -12.07)
@@ -3124,7 +3124,7 @@
 			(pinfunction "D48/PD_2/SDMMC_CMD")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "5deda3f2-8806-493b-8b9f-06b79b562f78")
+			(uuid "d7e47830-5d79-48cf-8fb5-c9d2b4595a6d")
 		)
 		(pad "CN8_13" thru_hole oval
 			(at -24.13 -9.53)
@@ -3138,7 +3138,7 @@
 			(pinfunction "GND_CN8")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "64296e15-5de7-4a5c-884d-0d00cdf74ab4")
+			(uuid "78062c9f-a41a-4982-99f2-77344bf7f2df")
 		)
 		(pad "CN8_14" thru_hole oval
 			(at -21.59 -9.53)
@@ -3152,7 +3152,7 @@
 			(pinfunction "D49/PG_2/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "c8e580f7-256d-4afb-82aa-3573be07270c")
+			(uuid "48c38d8f-6280-482e-94f7-e5ada6457a4c")
 		)
 		(pad "CN8_15" thru_hole oval
 			(at -24.13 -6.99)
@@ -3166,7 +3166,7 @@
 			(pinfunction "VIN")
 			(pintype "power_in+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "312a2732-bad7-483e-ae6e-08f2d0ada368")
+			(uuid "964f63ec-4806-4859-94fe-3d35d33fbc39")
 		)
 		(pad "CN8_16" thru_hole oval
 			(at -21.59 -6.99)
@@ -3180,7 +3180,7 @@
 			(pinfunction "D50/PG_3/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "579bd7d6-9688-4bda-a9f0-166bc5be9050")
+			(uuid "cb595ee7-c6b8-4a51-89d8-673c360cda16")
 		)
 		(pad "CN9_1" thru_hole rect
 			(at -24.13 -1.91)
@@ -3194,7 +3194,7 @@
 			(pinfunction "A0/PA_3/ADC123_IN3")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a0b26e9e-e803-4387-b859-12f856d982b2")
+			(uuid "ec065b38-2917-4d9b-ae7e-9798de7e7884")
 		)
 		(pad "CN9_2" thru_hole oval
 			(at -21.59 -1.91)
@@ -3208,7 +3208,7 @@
 			(pinfunction "D51/PD_7/USART_B_SCLK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "6a630392-7bec-4c64-9c96-f78b32c0a578")
+			(uuid "1c7b1c60-2bae-445e-91f2-4a4301b39b2b")
 		)
 		(pad "CN9_3" thru_hole oval
 			(at -24.13 0.63)
@@ -3222,7 +3222,7 @@
 			(pinfunction "A1/PC_0/ADC123_IN10")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "bd32998f-1ae8-4549-83bf-9a30ceafc2c9")
+			(uuid "8f3af45d-649b-4a3c-af89-7b048ce3705d")
 		)
 		(pad "CN9_4" thru_hole oval
 			(at -21.59 0.63)
@@ -3236,7 +3236,7 @@
 			(pinfunction "D52/PD_6/USART_B_RX")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "d0c97dbe-7f5a-44fe-aa55-882a9eeb7858")
+			(uuid "0e05cd3e-03f5-414f-9ffd-259aa5b985ed")
 		)
 		(pad "CN9_5" thru_hole oval
 			(at -24.13 3.17)
@@ -3250,7 +3250,7 @@
 			(pinfunction "A2/PC_3/ADC123_IN13")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "44cc1c7d-48b8-44ce-b728-d9520bd849f9")
+			(uuid "d639ba5c-ea16-4085-8e83-a61934b265a3")
 		)
 		(pad "CN9_6" thru_hole oval
 			(at -21.59 3.17)
@@ -3264,7 +3264,7 @@
 			(pinfunction "D53/PD_5/USART_B_TX")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "4c9ff5c4-8be1-444d-9512-32768ed4eb9a")
+			(uuid "da4356d5-66c7-46b9-98cd-ecaff4572bb1")
 		)
 		(pad "CN9_7" thru_hole oval
 			(at -24.13 5.71)
@@ -3278,7 +3278,7 @@
 			(pinfunction "A3/PF_3/ADC3_IN9")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b1a7b9d7-25b7-40a0-92a3-d3f64ce31e3f")
+			(uuid "837a331e-fc10-4795-bf01-05a79d5b2a6a")
 		)
 		(pad "CN9_8" thru_hole oval
 			(at -21.59 5.71)
@@ -3292,7 +3292,7 @@
 			(pinfunction "D54/PD_4/USART_B_RTS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "970efa77-fa5a-48fd-a74e-c523501bcf82")
+			(uuid "d524f760-37f8-4a6a-8fa3-0909359b5b58")
 		)
 		(pad "CN9_9" thru_hole oval
 			(at -24.13 8.25)
@@ -3306,7 +3306,7 @@
 			(pinfunction "A4/PF_5/ADC3_IN15/I2C1_SDA")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "2cea3caf-e719-45e9-9d1f-858e2726c49c")
+			(uuid "a9dad823-3424-4f77-890a-c6f6ea424f8f")
 		)
 		(pad "CN9_10" thru_hole oval
 			(at -21.59 8.25)
@@ -3320,7 +3320,7 @@
 			(pinfunction "D55/PD_3/USART_B_CTS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "634e6d6b-a247-4112-8a08-dca94e70bd98")
+			(uuid "c71afd3d-1224-4390-b610-9571e0627ce9")
 		)
 		(pad "CN9_11" thru_hole oval
 			(at -24.13 10.79)
@@ -3334,7 +3334,7 @@
 			(pinfunction "A5/PF_10/ADC3_IN8/I2C1_SCL")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "d8833bec-9088-4044-b793-df804291bba5")
+			(uuid "ec1048b0-3fc2-4b1f-bd1a-7e272c958392")
 		)
 		(pad "CN9_12" thru_hole oval
 			(at -21.59 10.79)
@@ -3348,7 +3348,7 @@
 			(pinfunction "GND_CN9")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "6429764d-e7fa-4128-b15d-b01cea805e36")
+			(uuid "6f584040-795f-4abb-afcb-be1c46b6de2a")
 		)
 		(pad "CN9_13" thru_hole oval
 			(at -24.13 13.33)
@@ -3362,7 +3362,7 @@
 			(pinfunction "D72/NC")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a788c84f-917e-4c8f-b198-0f87276368ba")
+			(uuid "134559aa-71e1-4f44-b44a-4003e7288929")
 		)
 		(pad "CN9_14" thru_hole oval
 			(at -21.59 13.33)
@@ -3376,7 +3376,7 @@
 			(pinfunction "D56/PE_2/SAI_A_MCLK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "ca1ef484-d742-45d9-9651-7024c7e9a35d")
+			(uuid "b83ccf61-2fb9-4a77-87fc-3afa3cbf4503")
 		)
 		(pad "CN9_15" thru_hole oval
 			(at -24.13 15.87)
@@ -3390,7 +3390,7 @@
 			(pinfunction "D71/PA_7/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b69cefe8-e5f7-455e-9754-d333c826ad5b")
+			(uuid "70a88d5e-82b7-4cb1-b9ac-912205e664dd")
 		)
 		(pad "CN9_16" thru_hole oval
 			(at -21.59 15.87)
@@ -3404,7 +3404,7 @@
 			(pinfunction "D57/PE_4/SAI_A_FS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "5424d761-3104-4610-8964-65962364138a")
+			(uuid "04aba3d6-f65f-4479-adea-3f5fa4ace3d7")
 		)
 		(pad "CN9_17" thru_hole oval
 			(at -24.13 18.41)
@@ -3418,7 +3418,7 @@
 			(pinfunction "D70/PF_2/I2C_B_SMBA")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "497a8ac3-a6d1-4b5f-99dd-fcdb08d5cb3a")
+			(uuid "f9b6fc7e-1e8f-4ca0-89c7-9c63887eb581")
 		)
 		(pad "CN9_18" thru_hole oval
 			(at -21.59 18.41)
@@ -3432,7 +3432,7 @@
 			(pinfunction "D58/PE_5/SAI_A_SCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "695668e5-c59e-46bb-9d94-bbd0cef3be5a")
+			(uuid "e3503008-c181-4952-93db-ecf368c80798")
 		)
 		(pad "CN9_19" thru_hole oval
 			(at -24.13 20.95)
@@ -3446,7 +3446,7 @@
 			(pinfunction "D69/PF_1/I2C_B_SCL")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "12daaed4-9d70-4180-b21a-f18c351e0ada")
+			(uuid "de727bbd-f197-4228-a49b-a1cba8a25793")
 		)
 		(pad "CN9_20" thru_hole oval
 			(at -21.59 20.95)
@@ -3460,7 +3460,7 @@
 			(pinfunction "D59/PE_6/SAI_A_SD")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "5f54c3da-ca46-4e46-a425-d3a712ffe663")
+			(uuid "71233462-63a9-465c-a14f-274972afc99f")
 		)
 		(pad "CN9_21" thru_hole oval
 			(at -24.13 23.49)
@@ -3474,7 +3474,7 @@
 			(pinfunction "D68/PF_0/I2C_B_SDA")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "979325a7-0509-4cdc-b7c5-e41ab5495cb0")
+			(uuid "4dc27c02-e86e-4b87-b948-110ac8549b3a")
 		)
 		(pad "CN9_22" thru_hole oval
 			(at -21.59 23.49)
@@ -3488,7 +3488,7 @@
 			(pinfunction "D60/PE_3/SAI_B_SD")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f6d5fea5-b5ec-4929-8d86-c5f16908419d")
+			(uuid "01c3d6dc-c530-4ef2-af83-a3087454aa75")
 		)
 		(pad "CN9_23" thru_hole oval
 			(at -24.13 26.03)
@@ -3502,7 +3502,7 @@
 			(pinfunction "GND_CN9")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "a3852757-46de-40ee-9695-af5a60ca877b")
+			(uuid "3844330f-d4ac-4b69-877e-d7b1f2a9a2d5")
 		)
 		(pad "CN9_24" thru_hole oval
 			(at -21.59 26.03)
@@ -3516,7 +3516,7 @@
 			(pinfunction "D61/PF_8/SAI_B_SCK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "ff171b65-e22a-4e7e-89b5-410a03a5ed83")
+			(uuid "bce5f45b-e96b-40a0-b319-8d9cb57ac7b8")
 		)
 		(pad "CN9_25" thru_hole oval
 			(at -24.13 28.57)
@@ -3530,7 +3530,7 @@
 			(pinfunction "D67/PD_0/CAN_RX")
 			(pintype "input")
 			(solder_mask_margin 0.102)
-			(uuid "9d0395c8-1f33-4d59-952e-1b694dcb1438")
+			(uuid "54190def-7f1d-4697-8653-654d344400bf")
 		)
 		(pad "CN9_26" thru_hole oval
 			(at -21.59 28.57)
@@ -3544,7 +3544,7 @@
 			(pinfunction "D62/PF_7/SAI_B_MCLK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "fc7dc2de-1f55-4ad6-ad2b-f5107ff0b156")
+			(uuid "845cf571-516a-4117-a9fb-63b659bf4382")
 		)
 		(pad "CN9_27" thru_hole oval
 			(at -24.13 31.11)
@@ -3558,7 +3558,7 @@
 			(pinfunction "D66/PD_1/CAN_TX")
 			(pintype "output")
 			(solder_mask_margin 0.102)
-			(uuid "852f2f74-7a4b-4d58-aaf0-f32f7f6878f6")
+			(uuid "a5442dd7-c207-469e-b289-43d0f56adf54")
 		)
 		(pad "CN9_28" thru_hole oval
 			(at -21.59 31.11)
@@ -3572,7 +3572,7 @@
 			(pinfunction "D63/PF_9/SAI_B_FS")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "ff715c05-6ed1-44ec-a316-219fbc2b6fa5")
+			(uuid "38fa485c-2130-45c6-82d4-ab7fd2164941")
 		)
 		(pad "CN9_29" thru_hole oval
 			(at -24.13 33.65)
@@ -3586,7 +3586,7 @@
 			(pinfunction "D65/PG_0/IO")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "bda34cf5-b320-4ad1-9836-a6c43b47bab8")
+			(uuid "a1f77fc5-8c2f-454b-b455-99102b749740")
 		)
 		(pad "CN9_30" thru_hole oval
 			(at -21.59 33.65)
@@ -3600,7 +3600,7 @@
 			(pinfunction "D64/PG_1/IO")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "9eb911e9-991f-4dbe-ac17-c79391387b27")
+			(uuid "df3b9600-ede3-44d9-b85e-95eb84566f00")
 		)
 		(pad "CN10_1" thru_hole rect
 			(at 21.59 -6.99)
@@ -3614,7 +3614,7 @@
 			(pinfunction "AVDD_CN10")
 			(pintype "power_in+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "7c52562a-1ecc-43da-9a80-60a9880ca70f")
+			(uuid "b0d1d759-9332-48fc-bc3f-6a34074f44d8")
 		)
 		(pad "CN10_2" thru_hole oval
 			(at 24.13 -6.99)
@@ -3628,7 +3628,7 @@
 			(pinfunction "D7/PF_13/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "5bd8c954-7234-45b1-877c-db3ed7a52474")
+			(uuid "2cb42647-bf6d-4d53-b3c8-eae2e81b8ebc")
 		)
 		(pad "CN10_3" thru_hole oval
 			(at 21.59 -4.45)
@@ -3642,7 +3642,7 @@
 			(pinfunction "AGND_CN10")
 			(pintype "power_in+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "3d23a54c-4ab6-4c0a-96ca-4f2940210199")
+			(uuid "dbc5eb5e-61ee-4bd1-b069-603418bd8d91")
 		)
 		(pad "CN10_4" thru_hole oval
 			(at 24.13 -4.45)
@@ -3656,7 +3656,7 @@
 			(pinfunction "D6/PE_9/TIMER_A_PWM1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f5f8df49-3077-4a4c-914c-610db6590980")
+			(uuid "fe17f28b-9764-419d-8514-62b6994b33e3")
 		)
 		(pad "CN10_5" thru_hole oval
 			(at 21.59 -1.91)
@@ -3670,7 +3670,7 @@
 			(pinfunction "GND_CN10")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "5e9f2a18-370e-46a9-8c72-6ec928f5eafb")
+			(uuid "8bd2eaaf-459f-43a6-8a5f-ce6e7d264027")
 		)
 		(pad "CN10_6" thru_hole oval
 			(at 24.13 -1.91)
@@ -3684,7 +3684,7 @@
 			(pinfunction "D5/PE_11/TIMER_A_PWM2")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "219ab296-5a67-4717-b1cc-b11087ff874e")
+			(uuid "c6071818-791c-44b2-9e58-526bcf4bd3e1")
 		)
 		(pad "CN10_7" thru_hole oval
 			(at 21.59 0.63)
@@ -3698,7 +3698,7 @@
 			(pinfunction "A6/PB_1/ADC_A_IN")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "45723d4a-ea94-40ca-b80e-0466f240d5fe")
+			(uuid "d3562720-caa0-4d2a-a140-54c4083ea94b")
 		)
 		(pad "CN10_8" thru_hole oval
 			(at 24.13 0.63)
@@ -3712,7 +3712,7 @@
 			(pinfunction "D4/PF_14/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a94ca230-f326-4f40-8cb9-c55a37af661e")
+			(uuid "9ae7d825-ffee-403c-a7a6-c40cd683ef76")
 		)
 		(pad "CN10_9" thru_hole oval
 			(at 21.59 3.17)
@@ -3726,7 +3726,7 @@
 			(pinfunction "A7/PC_2/ADC_B_IN")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "d514543b-d66f-4062-ab61-b75741d3c796")
+			(uuid "0c26ed05-e644-4e45-b776-1ecbf1976b89")
 		)
 		(pad "CN10_10" thru_hole oval
 			(at 24.13 3.17)
@@ -3740,7 +3740,7 @@
 			(pinfunction "D3/PE_13/TIMER_A_PWM3")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "44dba276-24f6-4486-8881-b5aa4b401d1c")
+			(uuid "cfa40e85-c6c8-4696-bde9-4f216f7541bc")
 		)
 		(pad "CN10_11" thru_hole oval
 			(at 21.59 5.71)
@@ -3754,7 +3754,7 @@
 			(pinfunction "A8/PF_4/ADC_C_IN")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "bfff6e62-a392-4652-96a9-617cb359dad2")
+			(uuid "109cfe08-0ebf-4247-a233-53f162539c9a")
 		)
 		(pad "CN10_12" thru_hole oval
 			(at 24.13 5.71)
@@ -3768,7 +3768,7 @@
 			(pinfunction "D2/PF_15/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f8cddb04-8a7e-4e2a-8638-dbc87dfb13c4")
+			(uuid "9a8bca79-3ed3-4a16-829d-13cc7368c7c6")
 		)
 		(pad "CN10_13" thru_hole oval
 			(at 21.59 8.25)
@@ -3782,7 +3782,7 @@
 			(pinfunction "D26/PB_6/QSPI_CS")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "05b76ba3-6b0f-48d4-8655-f74ec9fc4261")
+			(uuid "337df404-5fe3-4251-9cf5-7806bbdb9d8d")
 		)
 		(pad "CN10_14" thru_hole oval
 			(at 24.13 8.25)
@@ -3796,7 +3796,7 @@
 			(pinfunction "D1/PG_14/USART_A_TX")
 			(pintype "output+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "db535653-ea9f-482f-bb71-aaa92fad19da")
+			(uuid "bef7f019-766a-4763-bc98-576cf8f4abfd")
 		)
 		(pad "CN10_15" thru_hole oval
 			(at 21.59 10.79)
@@ -3810,7 +3810,7 @@
 			(pinfunction "D27/PB_2/QSPI_CLK")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "aa7f6cb3-c44a-4be0-afce-7e7dfd1870da")
+			(uuid "bded5fc0-c650-4b1d-af1a-3b2570479c39")
 		)
 		(pad "CN10_16" thru_hole oval
 			(at 24.13 10.79)
@@ -3824,7 +3824,7 @@
 			(pinfunction "D0/PG_9/USART_A_RX")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "9bd694a6-08ba-4bd1-8a8e-caa6b8f1e695")
+			(uuid "457e0123-1bf3-4d85-976b-46306c747fdc")
 		)
 		(pad "CN10_17" thru_hole oval
 			(at 21.59 13.33)
@@ -3838,7 +3838,7 @@
 			(pinfunction "GND_CN10")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "c47946c4-73cc-464e-bdc8-71547d077f60")
+			(uuid "34c5a41d-c6fb-4901-ae55-b68c2fc5a9a9")
 		)
 		(pad "CN10_18" thru_hole oval
 			(at 24.13 13.33)
@@ -3852,7 +3852,7 @@
 			(pinfunction "D42/PE_8/TIMER_A_PWM1N")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "77f54d2f-fc78-4edf-9ef5-ef508ee1c199")
+			(uuid "897796f0-ba18-4cdf-abc4-6a8fd79a47e6")
 		)
 		(pad "CN10_19" thru_hole oval
 			(at 21.59 15.87)
@@ -3866,7 +3866,7 @@
 			(pinfunction "D28/PD_13/QSPI_BK1_IO3")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "80b9ae03-302e-49a9-b3e5-97ef3604f88a")
+			(uuid "232c4901-bd44-4fa7-aade-5138c2adbd43")
 		)
 		(pad "CN10_20" thru_hole oval
 			(at 24.13 15.87)
@@ -3880,7 +3880,7 @@
 			(pinfunction "D41/PE_7/TIMER_A_ETR")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "7f66cf6c-79f0-4a08-8ad9-44727f274217")
+			(uuid "97406493-3c5d-456c-b07b-560f797bc2ed")
 		)
 		(pad "CN10_21" thru_hole oval
 			(at 21.59 18.41)
@@ -3894,7 +3894,7 @@
 			(pinfunction "D29/PD_12/QSPI_BK1_IO1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "3d5d40e8-b2dc-45aa-a154-fc5ea318f056")
+			(uuid "5197f343-cbfe-47df-887d-3a186b811ab3")
 		)
 		(pad "CN10_22" thru_hole oval
 			(at 24.13 18.41)
@@ -3908,7 +3908,7 @@
 			(pinfunction "GND_CN10")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "5856edc3-ec14-4601-8f70-f7e6b6f52365")
+			(uuid "45557363-0fcc-4846-a1dd-e3b32a997770")
 		)
 		(pad "CN10_23" thru_hole oval
 			(at 21.59 20.95)
@@ -3922,7 +3922,7 @@
 			(pinfunction "D30/PD_11/QSPI_BK1_IO0")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "8d632654-07b4-4e9d-9b96-525fdd80ce4b")
+			(uuid "6f31f397-3014-4c56-b561-28e91a33a14c")
 		)
 		(pad "CN10_24" thru_hole oval
 			(at 24.13 20.95)
@@ -3936,7 +3936,7 @@
 			(pinfunction "D40/PE_10/TIMER_A_PWM2N")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "1fe9e024-30f0-44b7-ac85-68d35c94dbc9")
+			(uuid "ba89e589-98a7-4fa0-9948-9bc97b7e58fc")
 		)
 		(pad "CN10_25" thru_hole oval
 			(at 21.59 23.49)
@@ -3950,7 +3950,7 @@
 			(pinfunction "D31/PE_2/QSPI_BK1_IO2")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "8f4b591c-30d5-44ff-b9a5-2db4c89fa970")
+			(uuid "15e2f505-ddfa-43e7-8acb-9d106801af32")
 		)
 		(pad "CN10_26" thru_hole oval
 			(at 24.13 23.49)
@@ -3964,7 +3964,7 @@
 			(pinfunction "D39/PE_12/TIMER_A_PWM3N")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "1910347d-d6d9-42d3-8213-99d7529eebf8")
+			(uuid "daf7c5a5-a3e0-4009-b7dd-1620a4f25361")
 		)
 		(pad "CN10_27" thru_hole oval
 			(at 21.59 26.03)
@@ -3978,7 +3978,7 @@
 			(pinfunction "GND_CN10")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "a82966a2-39da-4ec1-a917-ea9687feeb4c")
+			(uuid "3c5f0d18-0c21-4dee-be24-c5790d339841")
 		)
 		(pad "CN10_28" thru_hole oval
 			(at 24.13 26.03)
@@ -3992,7 +3992,7 @@
 			(pinfunction "D38/PE_14/IO")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "01947e97-9a30-4afc-8501-400e40778f0b")
+			(uuid "c0fe1452-f5dc-4224-ad9d-2836e7ef38a1")
 		)
 		(pad "CN10_29" thru_hole oval
 			(at 21.59 28.57)
@@ -4006,7 +4006,7 @@
 			(pinfunction "D32/PA_0/TIMER_C_PWM1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "47d2a1f4-e988-4272-867c-5c06b774ec18")
+			(uuid "bcfcf1a9-0214-4488-a05f-030f8b8fe5a6")
 		)
 		(pad "CN10_30" thru_hole oval
 			(at 24.13 28.57)
@@ -4020,7 +4020,7 @@
 			(pinfunction "D37/PE_15/TIMER_A_BKIN1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "cde7e7ce-3c2d-4c28-8a59-7c366e6f24d8")
+			(uuid "3d38a679-762f-49c3-bebf-822281896321")
 		)
 		(pad "CN10_31" thru_hole oval
 			(at 21.59 31.11)
@@ -4034,7 +4034,7 @@
 			(pinfunction "D33/PB_0/TIMER_D_PWM1")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "f57138d2-2664-4349-9633-b87a6fcf3d08")
+			(uuid "33e8cfb1-2157-4fc7-beb2-146067ca7788")
 		)
 		(pad "CN10_32" thru_hole oval
 			(at 24.13 31.11)
@@ -4048,7 +4048,7 @@
 			(pinfunction "D36/PB_10/TIMER_C_PWM2")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "60790f78-1192-4273-887e-6c1589e1f72e")
+			(uuid "5fa4bf34-96f8-4ef9-bb0a-34e399f0a8b9")
 		)
 		(pad "CN10_33" thru_hole oval
 			(at 21.59 33.65)
@@ -4062,7 +4062,7 @@
 			(pinfunction "D34/PE_0/TIMER_B_ETR")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "2c697793-147c-4c24-8ab5-45bdb384c962")
+			(uuid "8e80cc2e-d898-4c79-9a41-023c651996f1")
 		)
 		(pad "CN10_34" thru_hole oval
 			(at 24.13 33.65)
@@ -4076,7 +4076,7 @@
 			(pinfunction "D35/PB_11/TIMER_C_PWM3")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "5aa2faa7-77de-4632-8dc1-ca109e2f0d22")
+			(uuid "fb43f273-e847-4230-a81c-2b170116af6c")
 		)
 	)
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
