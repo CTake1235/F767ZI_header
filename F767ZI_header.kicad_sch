@@ -6175,6 +6175,10 @@
 		(uuid "b38458c6-8d2c-4d29-834d-a11aa5088e10")
 	)
 	(no_connect
+		(at 87.63 104.14)
+		(uuid "b71ad81d-71f8-4027-a1c8-b189b327b006")
+	)
+	(no_connect
 		(at 213.36 91.44)
 		(uuid "b9104808-b3a9-44ad-a9d4-0a6aea15d896")
 	)
@@ -6185,10 +6189,6 @@
 	(no_connect
 		(at 87.63 86.36)
 		(uuid "bbfccdfd-e54e-47ca-8fbf-01a2c7879be1")
-	)
-	(no_connect
-		(at 274.32 104.14)
-		(uuid "be3b9eb2-6d04-464b-a0a9-518a7a36fab9")
 	)
 	(no_connect
 		(at 274.32 96.52)
@@ -7408,7 +7408,7 @@
 	)
 	(global_label "EMER_SIG"
 		(shape output)
-		(at 87.63 104.14 0)
+		(at 274.32 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7418,7 +7418,7 @@
 		)
 		(uuid "f4f55e56-626b-4ad7-b8c1-d8647b1c8cd5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.6865 104.14 0)
+			(at 286.3765 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
